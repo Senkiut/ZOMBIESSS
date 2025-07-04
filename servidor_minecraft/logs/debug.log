@@ -614,3 +614,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Jul2025 07:33:18.401] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4266b05b[id=<null>,name=Senkiut,properties={},legacy=false] (/172.30.164.220:61957) lost connection: Disconnected
 [04Jul2025 07:33:38.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jul2025 07:33:38.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 07:38:38.711] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 07:38:38.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 07:43:38.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 07:43:38.722] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
