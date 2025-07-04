@@ -1,0 +1,20 @@
+2025-07-04 08:13:32.925751833: Trying to load common config
+2025-07-04 08:13:32.935895653: Trying to load client config
+2025-07-04 08:13:32.967408228: Copied file data/hordes/tables/default.json
+2025-07-04 08:13:32.96878919: java.lang.Exception
+2025-07-04 08:13:32.969058031: hordes-common.toml spawnlist is empty, generating fallback spawnlist
+2025-07-04 08:13:32.975840679: Copied file data/hordes/tags/entity_types/infection_entities.json
+2025-07-04 08:13:32.976672599: java.lang.Exception
+2025-07-04 08:13:32.976826185: hordes-common.toml spawnlist is empty, generating fallback infection entities tag
+2025-07-04 08:13:32.98129971: Copied file data/hordes/tags/items/infection_cures.json
+2025-07-04 08:13:32.984109686: java.lang.Exception
+2025-07-04 08:13:32.984559333: hordes-common.toml spawnlist is empty, generating fallback cure item tag
+2025-07-04 08:13:33.00507571: Generated pack.mcmeta
+2025-07-04 08:13:33.008266825: Copied file assets/hordes/sounds.json
+2025-07-04 08:13:33.015046087: Copied file assets/hordes/sounds/horde_spawn.ogg
+2025-07-04 08:13:33.016535422: Copied file assets/hordes/lang/en_us.json
+2025-07-04 08:13:33.018871384: Copied file data/hordes/horde_scripts/default.json
+2025-07-04 08:13:33.021017502: Copied file data/hordes/tables/skeletons.json
+2025-07-04 08:13:33.023502793: Copied file data/hordes/tables/mixed_mobs.json
+2025-07-04 08:13:33.023938655: Copied file data/hordes/tables/illagers.json
+2025-07-04 08:13:33.024154988: Generated default config files.
